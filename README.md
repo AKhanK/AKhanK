@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Abdul Haseeb Khan
-- I'm Django Web Developer
+ 👋 Hi, my name is Abdul Haseeb Khan
+    I'm  Django Web Developer
 
